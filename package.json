@@ -1,0 +1,23 @@
+{
+  "name": "@hero-page/hero-string-manipulation",
+  "version": "1.0.0",
+  "description": "A package that provides various functions for manipulating strings, such as changing case and capitalization.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests.js"
+  },
+  "repository": {},
+  "keywords": [
+    "string",
+    "manipulation",
+    "uppercase",
+    "lowercase",
+    "capitalize",
+    "words",
+    "ASCII",
+    "Unicode"
+  ],
+  "author": "Sam Chahine",
+  "license": "MIT",
+  "dependencies": {}
+}
